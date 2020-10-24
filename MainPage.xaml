@@ -6,7 +6,8 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="{ThemeResource SystemControlAcrylicWindowBrush}">
+    
     <Grid HorizontalAlignment="Center" Width="936" VerticalAlignment="Stretch">
         <StackPanel Margin="240,50,240,0">
             <TextBlock Text="Clipboard" TextWrapping="Wrap" HorizontalAlignment="Center" FontSize="36" FontWeight="Bold"/>
