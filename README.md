@@ -1,6 +1,6 @@
 # ClipboardCSharpUWP
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_El proyecto consiste en utilizar el clipboard con las funciones de copiar y pegar._
 
 ## Comenzando 🚀
 
